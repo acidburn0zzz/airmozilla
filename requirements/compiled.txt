@@ -4,4 +4,4 @@ Jinja2==2.5.5
 simplejson
 Pillow==2.3.0
 lxml>=2.1
-ujson==1.33
+ujson==5.4.0
